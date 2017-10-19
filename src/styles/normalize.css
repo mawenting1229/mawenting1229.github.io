@@ -24,7 +24,7 @@ html {
 
 body {
   margin: 0;
-  background: #f5f5d5;
+  background: #EEE5DE;
 }
 
 /**
@@ -446,7 +446,7 @@ template {
 [hidden] {
   display: none;
 }
- 
+
 
 
 

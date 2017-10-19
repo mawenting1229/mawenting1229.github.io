@@ -21,9 +21,9 @@ export default class Index extends Page {
       			<dd>
       				<h3>文章推荐</h3>
       				<ul className="index-rt-list">
-      					<li><a href="http://geek.csdn.net/news/detail/48765" target="_blank">» 全站HTTPS来了</a></li>
-      					<li><a href="https://zhuanlan.zhihu.com/p/21927991" target="_blank">» HTML5手势检测原理和实现</a></li>
-      					<li><a href="https://segmentfault.com/a/1190000006495917" target="_blank">» React入门及资源指引</a></li>
+      					<li><a href="http://www.jqhtml.com/category/tutorial" target="_blank">» Hello Girl</a></li>
+      					<li><a href="http://www.jqhtml.com/7505.html" target="_blank">» webpack2.2 中文文档</a></li>
+      					<li><a href="http://www.jianshu.com/p/a64735eb0e2b" target="_blank">» 彻底解决 webpack 打包文件体积过大</a></li>
       				</ul>
       			</dd>
       			<dd>
@@ -31,7 +31,7 @@ export default class Index extends Page {
       				<ul className="index-rt-list">
       					<li>个人简介：<a href="#/about">去这里</a></li>
       					<li>文章：{articleList.length}篇</li>
-      					<li>爱好：爬山、球类</li>
+      					<li>爱好：前端、跑步、台球</li>
       				</ul>
       			</dd>
       		</dl>
