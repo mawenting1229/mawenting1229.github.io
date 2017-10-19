@@ -37,7 +37,7 @@ export default class Head extends Page {
             })
           }
         </nav>
-        <h1><a href="#">碚珞</a></h1>
+        <h1><a href="#">七度🍎</a></h1>
       </div>
     )
   }

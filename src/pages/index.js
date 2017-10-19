@@ -40,7 +40,7 @@ export default class Index extends Page {
       		<dd className="content-wrapper">
       			<h2>最新文章概览</h2>
       			<div className="newest-scan"><AsyncComponent comFn={articles[0].component()}/></div>
-      			<a href={`#/article${articleList[0].path}`} className="go-on-read">继续阅读全文 »</a>
+      			<a href={`#/article${articleList[4].path}`} className="go-on-read">继续阅读全文 »</a>
       		</dd>
       		<dd className="content-wrapper">
       			<h2>最新博客</h2>
