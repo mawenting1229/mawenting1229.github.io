@@ -1,0 +1,8 @@
+.at-article-wrapper *{
+	line-height: 40px;
+}
+.at-article-wrapper img{
+	display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}

@@ -1,8 +1,4 @@
 # JAVASCRIPT 写作指南
-
-￼
-<img class="progressiveMedia-noscript js-progressiveMedia-inner" src="https://cdn-images-1.medium.com/max/1600/1*7qYONdlJuS0pkUpdav-LQQ.jpeg">
-
 1992年，由 William Strunk Jr. 创作的《英文写作指南》（“The Elements of Style”）出版了。这是一本禁受住了时间考验的英文写作风格指南书。由此类推，代码也可以有类似的风格指南。
 
 下面我们讨论的是一些指南，并非铁律。为了使代码的含义更明确，我们可以有充足的理由不遵循这些指南，但是，你要对此行为有所警惕和自觉。这些指南因为这些好的因素（good reason）禁受住了时间的考验：他们通常是正确的。只有在有充足理由的时候才偏离他们--而不是仅仅突发奇想或者是因为个人偏好。

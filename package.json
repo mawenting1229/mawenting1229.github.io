@@ -13,7 +13,7 @@
     "showdown": "^1.7.1"
   },
   "redskull": {
-    "port": 4900,
+    "port": 6005,
     "src": "./src",
     "entry": "index.js",
     "dist": "./dist",

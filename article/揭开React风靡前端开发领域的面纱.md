@@ -1,9 +1,4 @@
 # 揭开React风靡前端开发领域的面纱
-
-![](file:///Users/mawenting/Desktop/Yes,%20React%20is%20taking%20over%20front-end%20development.%20The%20question%20is%20why._files/1-3IUcek7o2S5aJnFAgtP5Gg(1).png)
-
-[^本文的重点是React受欢迎的原因，而不是与其他框架或库进行比较]: 
-
 以下是React如此迅速流行的几个原因：
 
 * 使用DOM API成本较大。React使开发人员能够使用比真实浏览器更友好的虚拟浏览器。React的虚拟浏览器就像开发者和真实浏览器之间的代理一样。

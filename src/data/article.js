@@ -1,7 +1,11 @@
 
 	export default [
 	{
-		"title":"index","path":"/CSS_Variables/index","createTime":"","component":()=>System.import('article/CSS_Variables/index.md')
+		"title":"CSS变量，来了？","path":"/CSS变量，来了？","createTime":"","component":()=>System.import('article/CSS变量，来了？.md')
+
+	},
+	{
+		"title":"JAVASCRIPT 写作指南","path":"/JAVASCRIPT 写作指南","createTime":"","component":()=>System.import('article/JAVASCRIPT 写作指南.md')
 
 	},
 	{
@@ -9,19 +13,11 @@
 
 	},
 	{
-		"title":"README","path":"/README","createTime":"","component":()=>System.import('article/README.md')
+		"title":"javascript理解","path":"/javascript理解","createTime":"","component":()=>System.import('article/javascript理解.md')
 
 	},
 	{
-		"title":"element of javascript style","path":"/element of javascript style","createTime":"","component":()=>System.import('article/element of javascript style.md')
-
-	},
-	{
-		"title":"javascriptByzhiqiang","path":"/javascriptByzhiqiang","createTime":"","component":()=>System.import('article/javascriptByzhiqiang.md')
-
-	},
-	{
-		"title":"translate","path":"/yes-react-is-taking-over-front-end-development-the-question-is-why/translate","createTime":"","component":()=>System.import('article/yes-react-is-taking-over-front-end-development-the-question-is-why/translate.md')
+		"title":"揭开React风靡前端开发领域的面纱","path":"/揭开React风靡前端开发领域的面纱","createTime":"","component":()=>System.import('article/揭开React风靡前端开发领域的面纱.md')
 
 	}]
 	

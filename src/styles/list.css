@@ -1,0 +1,19 @@
+.ls-list-wrapper{
+	line-height: 40px;
+}
+.ls-list-wrapper *{
+	line-height: 40px;
+}
+.ls-acticle-item{
+	height: 220px;
+	overflow: hidden;
+	margin-bottom: 40px;
+	border: 1px solid #d3d3d3;
+	padding: 10px;
+	border-radius: 4px;
+}
+.ls-article-content{
+	height: 150px;
+	overflow: hidden;
+	display: block;
+}

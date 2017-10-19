@@ -76,10 +76,12 @@ Object.assign(SyncMDDataPlugin.prototype, {
         })
         // writeData()
         // watch 
-        var watcher = chokidar.watch(ARTILE_PATH,{
-        	ignoreInitial:true
-        })
-        watcher.on('add', writeData).on('unlink',writeData)
+        if(process.env.ENVIRONMENT != 'production'){
+             var watcher = chokidar.watch(ARTILE_PATH,{
+            ignoreInitial:true
+            })
+            watcher.on('add', writeData).on('unlink',writeData)
+        }
     }
 })
 

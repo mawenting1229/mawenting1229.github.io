@@ -1,11 +1,3 @@
----
-layout: post
-title: JavaScript基础1
-categories: [随笔]
-tags: []
-fullview: true
----
-
 本文主要讲述了JavaScript语言中基本知识和概念以及平时工作时遇到的一些问题。
 
 ### 为什么需要深入了解JavaScript
